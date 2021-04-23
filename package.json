@@ -1,0 +1,10 @@
+{
+  "name": "OutsideSiteGenerator",
+  "version": "1.0.0",
+  "description": "This is static site generator for oustide",
+  "main": "main.js",
+  "repository": "git@github.com:priosshrsth/static-site-generator.git",
+  "author": "Anit Shrestha",
+  "license": "MIT",
+  "private": true
+}
